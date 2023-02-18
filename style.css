@@ -264,13 +264,16 @@ h6 {
   background-color: orange;
 }
 .about-us-box {
-  border: 1px black solid;
+  border: 1px rgb(128, 128, 128) solid;
   width: 450px;
   border-radius: 30px;
   background-color: gray;
   margin-left: 600px;
   margin-top: -200px;
   margin-bottom: 200px;
+}
+.sub-box-text {
+  color: gray;
 }
 .full-menu {
   display: grid;
